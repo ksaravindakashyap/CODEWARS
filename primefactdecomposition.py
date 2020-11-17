@@ -38,4 +38,5 @@ def prime_factors(n):
         print("enter valid number")
 
 
-prime_factors(7775460)
+prime_factors(n)
+ #n --> may be any integer number.
